@@ -19,7 +19,7 @@ NIRS是介于可见光和中红外光之间的电磁波，其波长范围为（1
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
 
-<font  size=5 color=bule >本篇主要讲述常见的波长选择算法(目前是matlab版本的，python版本有时间重写一下)
+<font  size=5 color=bule >本篇主要讲述常见的波长选择算法(目前是matlab版本的，python版本有时间重写一下，如果对您有帮助，麻烦右上角star一下)
 
 # 一、SPA算法
 连续投影算法（successive projections algorithm， SPA） 是前向特征变量选择方法。SPA利用向量的投影分析，通过将波长投影到其他波长上，比较投影向量大小，以投影向量最大的波长为待选波长，然后基于矫正模型选择最终的特征波长。SPA选择的是含有最少冗余信息及最小共线性的变量组合。
