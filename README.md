@@ -2,7 +2,7 @@
 Wavelength selection in spectroscopy
 # 前言
 
-![Uploading 微信图片_20220522163336.jpg…]()
+
 
 <font color=#999AAA >
 NIRS是介于可见光和中红外光之间的电磁波，其波长范围为（1100∼2526 nm。
